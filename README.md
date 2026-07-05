@@ -1,3 +1,5 @@
+[![CI](https://github.com/shadowmodder/mcp-quickserver/actions/workflows/ci.yml/badge.svg)](https://github.com/shadowmodder/mcp-quickserver/actions/workflows/ci.yml)
+
 # mcp-quickserver
 
 A working MCP (Model Context Protocol) server template. Fork it, swap the store, add your tools.
