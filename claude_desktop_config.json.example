@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "quickserver": {
+      "command": "python",
+      "args": ["-m", "mcpquickserver"],
+      "cwd": "/absolute/path/to/mcp-quickserver"
+    }
+  }
+}
